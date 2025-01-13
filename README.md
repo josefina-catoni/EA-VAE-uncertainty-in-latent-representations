@@ -1,5 +1,5 @@
 # EA-VAE-uncertainty-in-latent-representations
-This repository contains the code that accompanies the manuscript titled *TITLE*. It allows reproduction of the results presented in the paper.
+This repository contains the code that accompanies the manuscript *Uncertainty in latent representations of variational autoencoders optimized for visual tasks*. It allows reproduction of the results presented in the paper.
 
 ## Instructions
 
