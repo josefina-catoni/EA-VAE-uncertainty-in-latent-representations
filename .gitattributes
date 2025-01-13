@@ -1,0 +1,3 @@
+VanHateren_Gamma-Laplace/Model_checkpoints/manuscript/EA-VAE/bestnet.pth filter=lfs diff=lfs merge=lfs -text
+VanHateren_Gamma-Laplace/Model_checkpoints/manuscript/EA-VAE/checkpoint_epoch_4200.pth filter=lfs diff=lfs merge=lfs -text
+VanHateren_Gamma-Laplace/Model_checkpoints/manuscript/VAE/bestnet.pth filter=lfs diff=lfs merge=lfs -text
