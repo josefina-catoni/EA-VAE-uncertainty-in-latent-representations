@@ -62,9 +62,9 @@ pip install -r requirements.txt
 
 ---
 ### 4. **Create Van Hateren Dataset**
-- Download from https://zenodo.org/record/6584838#.ZBSxatLMJkg 40x40pix natural images patches file: fakelabeled_natural_commonfiltered_640000_40px.pkl and place it inside ./Datasets/VanHateren/ directory.
+- Download from https://zenodo.org/record/6584838#.ZBSxatLMJkg 40x40pix natural images patches file: fakelabeled_natural_commonfiltered_640000_40px.pkl and place it inside Datasets/VanHateren/ directory.
 
-- Extract dataset by running ./Datasets/VanHateren/extract_dataset.py file
+- Extract dataset by running Datasets/VanHateren/extract_dataset.py file
 ---
 
 ## Folder Structure
