@@ -1,3 +1,30 @@
+#VanHateren dataset
+Datasets/VanHateren/fakelabeled_natural_commonfiltered_640000_40px.pkl
+Datasets/VanHateren/train_images/
+Datasets/VanHateren/test_images/
+Datasets/VanHateren/train_labels.pkl
+Datasets/VanHateren/test_labels.pkl
+
+#MNIST dataset
+Datasets/Mnist/MNIST/MNIST/
+Datasets/FashionMnist/FashionMNIST/FashionMNIST/
+
+#Model_Checkpoint
+MNIST/Model_checkpoints/personal/*
+!MNIST/Model_checkpoints/personal/.gitkeep
+VanHateren_Gamma-Laplace/Model_checkpoints/personal/*
+!VanHateren_Gamma-Laplace/Model_checkpoints/personal/.gitkeep
+
+#Figures
+Plot_results/MNIST/data/personal/*
+!Plot_results/MNIST/data/personal/.gitkeep
+Plot_results/MNIST/figures/personal/*
+!Plot_results/MNIST/figures/personal/.gitkeep
+Plot_results/VanHateren_Gamma-Laplace/data/personal/*
+!Plot_results/VanHateren_Gamma-Laplace/data/personal/.gitkeep
+Plot_results/VanHateren_Gamma-Laplace/figures/personal/*
+!Plot_results/VanHateren_Gamma-Laplace/figures/personal/.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
