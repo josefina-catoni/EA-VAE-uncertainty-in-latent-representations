@@ -82,3 +82,5 @@ In all Jupyter notebooks, you can set the variable `use_manuscript_results` to e
 - **`False`**: Will use locally trained models or newly trained results.
 
 This allows flexibility for users who may want to either replicate the manuscript's results or train their own models from scratch.
+
+*Note:* The code implemented denotes the Explaning-away variable as "z" and the Spatial latents as "y". 
