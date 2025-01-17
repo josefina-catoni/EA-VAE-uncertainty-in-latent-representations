@@ -24,6 +24,14 @@ Plot_results/VanHateren_Gamma-Laplace/data/personal/*
 !Plot_results/VanHateren_Gamma-Laplace/data/personal/.gitkeep
 Plot_results/VanHateren_Gamma-Laplace/figures/personal/*
 !Plot_results/VanHateren_Gamma-Laplace/figures/personal/.gitkeep
+Plot_results/MNIST/data/manuscript/*
+!Plot_results/MNIST/data/manuscript/.gitkeep
+Plot_results/MNIST/figures/manuscript/*
+!Plot_results/MNIST/figures/manuscript/.gitkeep
+Plot_results/VanHateren_Gamma-Laplace/data/manuscript/*
+!Plot_results/VanHateren_Gamma-Laplace/data/manuscript/.gitkeep
+Plot_results/VanHateren_Gamma-Laplace/figures/manuscript/*
+!Plot_results/VanHateren_Gamma-Laplace/figures/manuscript/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
